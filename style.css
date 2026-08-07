@@ -1,9 +1,10 @@
  header {
-         color: rgb(76, 54, 100);
-         background-color: rgb(48, 26, 68);
+         color: rgb(170, 164, 176);
+         background-color: rgb(150, 138, 162);
          text-align: center;
          max-width: 800px ;
          margin: 0 auto;
+         padding: 16px;
  }
  
  main {
@@ -11,4 +12,5 @@
          background-color: rgb(69, 34, 40);
          max-width: 800px ;
          margin: 0 auto;
+         padding: 16px;
 }
